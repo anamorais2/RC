@@ -1,0 +1,4 @@
+jorge;mtu67453;administrador
+tiago;543;leitor
+joana;azq12122;jornalista
+asdfghjkl;asdfghjklç;administrador
